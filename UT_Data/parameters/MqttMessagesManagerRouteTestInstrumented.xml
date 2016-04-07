@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<method name="testRestore">
+    <test name="Positive case :Group Chat Join">
+        <parameter id="0" name="message" value="{&quot;t&quot;:&quot;gcj&quot;,&quot;to&quot; : &quot;12345&quot;,&quot;f&quot;:&quot;8800818729&quot;,&quot;gts&quot;:&quot;1460011508&quot;,&quot;d&quot;:[{&quot;msisdn&quot;:&quot;+919910000474&quot;,&quot;name&quot;:&quot;Vijay Ragunathan&quot;},{&quot;msisdn&quot;:&quot;+919899108194&quot;,&quot;name&quot;:&quot;Bhuvan&quot;}],&quot;md&quot;:  { name: &quot;GroupName&quot;}}" />
+    </test>
+</method>
